@@ -44,12 +44,12 @@ My background combines **SQL-based analytics**, **Excel-driven analysis**, and *
 
 - Designed and built a **relational MySQL database from scratch**
 - Modeled customers, products, orders, and transactional relationships
+- Applied CTEs, window functions, and KPI-driven analytical logic
 - Developed business-driven SQL analyses:
   - Monthly revenue & MoM growth
   - Top customers by revenue
   - Best-selling products
   - Average order value (AOV)
-- Applied CTEs, window functions, and KPI-focused analysis
 
 🔗 **Repository:**  
 https://github.com/eligiox02/end_to_end_vivienne_westwood_database
@@ -67,6 +67,17 @@ https://github.com/eligiox02/end_to_end_vivienne_westwood_database
 
 🔗 **Repository:**  
 https://github.com/eligiox02/hr-analytics-turnover-performance
+
+📂 **Project Files:**
+
+dashboards/
+└── HR_Turnover_Analysis.twb
+
+data/
+└── L.S_Enterprise_HR_Database.xlsx
+
+documentation/
+└── HR_Project_Scope_of_Work.pdf
 
 ---
 
