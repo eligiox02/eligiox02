@@ -69,9 +69,9 @@ https://github.com/eligiox02/end_to_end_vivienne_westwood_database
 https://github.com/eligiox02/hr-analytics-turnover-performance
 
 📂 **Project Files:**
-- [Tableau Workbook](dashboards/HR_Turnover_Analysis.twb)
-- [Excel Dataset](data/L.S_Enterprise_HR_Database.xlsx)
-- [Statement of Work (DOCX)](documentation/HR_Project_Scope_of_Work.docx)
+- [Tableau Workbook][(dashboards/HR_Turnover_Analysis.twb)](https://github.com/eligiox02/hr-analytics-turnover-performance/blob/main/data/L.S%20Enterprise%20HR%20Databse.xlsx)
+- [Excel Dataset][(data/L.S_Enterprise_HR_Database.xlsx)](https://github.com/eligiox02/hr-analytics-turnover-performance/blob/main/dashboards/HR%20Turnover%20Analysis.twb)
+- [Statement of Work (PDF)][(documentation/HR_Project_Scope_of_Work.pdf)](https://github.com/eligiox02/hr-analytics-turnover-performance/blob/main/documentation/HR-Proyect%20Scope%20of%20Work.docx)
 
 
 ---
