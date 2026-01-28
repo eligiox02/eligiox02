@@ -71,9 +71,7 @@ https://github.com/eligiox02/hr-analytics-turnover-performance
 📂 **Project Files:**
 - [Tableau Workbook](dashboards/HR_Turnover_Analysis.twb)
 - [Excel Dataset](data/L.S_Enterprise_HR_Database.xlsx)
-- [Statement of Work (PDF)](documentation/HR_Project_Scope_of_Work.pdf)
-
-
+- [Statement of Work (DOCX)](documentation/HR_Project_Scope_of_Work.docx)
 
 
 ---
