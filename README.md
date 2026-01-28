@@ -52,7 +52,7 @@ My background combines **SQL-based analytics**, **Excel-driven analysis**, and *
 - Applied CTEs, window functions, and KPI-focused analysis
 
 🔗 **Repository:**  
-https://github.com/eligiox02/vivienne-westwood-sql-portfolio
+https://github.com/eligiox02/end_to_end_vivienne_westwood_database
 
 ---
 
