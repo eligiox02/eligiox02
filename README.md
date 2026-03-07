@@ -1,6 +1,6 @@
 # Hi, I’m Eligio Sanchez 👋
 
-## Data Analyst | Business Intelligence | SQL • Excel • Tableau
+## Data Analyst | Business Intelligence | SQL • Excel • Tableau • Python
 
 I am a **Data Analyst** with hands-on experience designing relational databases, analyzing structured datasets, and transforming raw data into **actionable business insights**.
 
@@ -25,7 +25,12 @@ My background combines **SQL-based analytics**, **Excel-driven analysis**, and *
 - Pivot Tables and dashboards  
 - XLOOKUP, INDEX-MATCH  
 - Data cleaning and validation  
-- Power Query  
+- Power Query
+
+**Python**
+- Basic scripting
+- Data manipulation
+- Libraries (NumPy, Pandas)
 
 **Data Visualization**
 - Tableau dashboards  
@@ -33,7 +38,7 @@ My background combines **SQL-based analytics**, **Excel-driven analysis**, and *
 
 **AI-Assisted Analytics**
 - Prompt engineering for SQL and Excel  
-- Workflow optimization and validation  
+- Workflow optimization and validation
 
 ---
 
@@ -99,8 +104,10 @@ https://github.com/eligiox02/hr-analytics-turnover-performance
 ---
 
 ## 🎓 Education & Certifications
-- **Google Data Analytics Certificate** – Coursera *(In Progress)*  
-- **Data Analytics Essentials** – Cisco  
+- **Google Data Analytics Certificate** – Coursera  
+- **Data Analytics Essentials** – Cisco
+- **Google Advanced Data Analytics** - Coursera (In progress)
+- **SQL Querying: Advanced** - Coursera (In progress) 
 
 ---
 
